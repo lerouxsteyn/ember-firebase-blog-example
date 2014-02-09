@@ -1,0 +1,33 @@
+#-----------------------
+#Site specific
+#-----------------------
+#Add some files here...
+
+#-----------------------
+#OSX
+#-----------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+.Spotlight-V100
+.Trashes
+
+#-----------------------
+#Windows
+#-----------------------
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+#-----------------------
+#PSD folders
+#-----------------------
+
+PSD
+!PSD
+
+#-----------------------
+#Log files
+#-----------------------
+*.log
